@@ -114,7 +114,7 @@ This section helps in:
 * Regional Performance Analysis: Dealers and regions can be benchmarked for operational improvement
 * Executive Decision Support: Clean KPIs and trends allow leadership to make fast, data-backed decisions
 
-# Snapshot of Dahsboard:
+# Dahsboard:
 ![Car Sales Dashboard](https://raw.githubusercontent.com/SANYAM003/Car-Sales-Performance-Dashboard/main/Dashboard%20Screenshot.png)
 
 
